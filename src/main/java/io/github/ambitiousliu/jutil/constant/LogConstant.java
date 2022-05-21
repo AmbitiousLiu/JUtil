@@ -1,4 +1,4 @@
-package io.github.ambitiousliu.constant;
+package io.github.ambitiousliu.jutil.constant;
 
 public class LogConstant {
     public final static String SIGN = "[JUtil]";

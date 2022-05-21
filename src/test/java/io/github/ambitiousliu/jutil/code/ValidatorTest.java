@@ -1,4 +1,4 @@
-package io.github.ambitiousliu.code;
+package io.github.ambitiousliu.jutil.code;
 
 import org.junit.Test;
 

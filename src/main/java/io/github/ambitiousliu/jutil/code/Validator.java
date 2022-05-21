@@ -1,6 +1,6 @@
-package io.github.ambitiousliu.code;
+package io.github.ambitiousliu.jutil.code;
 
-import io.github.ambitiousliu.exception.ValidatorException;
+import io.github.ambitiousliu.jutil.exception.ValidatorException;
 
 import java.util.List;
 import java.util.function.Predicate;

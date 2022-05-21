@@ -1,4 +1,4 @@
-package io.github.ambitiousliu.code.json;
+package io.github.ambitiousliu.jutil.code.json;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;

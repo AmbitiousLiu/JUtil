@@ -1,7 +1,6 @@
-package io.github.ambitiousliu.code.json;
+package io.github.ambitiousliu.jutil.code.json;
 
 import com.google.gson.JsonObject;
-import com.google.gson.reflect.TypeToken;
 import org.junit.Test;
 
 public class GsonHelperTest {

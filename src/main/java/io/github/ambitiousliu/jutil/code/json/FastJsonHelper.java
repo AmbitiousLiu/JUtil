@@ -1,4 +1,4 @@
-package io.github.ambitiousliu.code.json;
+package io.github.ambitiousliu.jutil.code.json;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;

@@ -1,6 +1,6 @@
-package io.github.ambitiousliu.exception;
+package io.github.ambitiousliu.jutil.exception;
 
-import io.github.ambitiousliu.constant.LogConstant;
+import io.github.ambitiousliu.jutil.constant.LogConstant;
 
 public class JUtilException extends RuntimeException {
     public JUtilException() {
