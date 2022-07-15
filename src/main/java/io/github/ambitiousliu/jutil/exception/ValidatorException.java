@@ -2,8 +2,9 @@ package io.github.ambitiousliu.jutil.exception;
 
 import io.github.ambitiousliu.jutil.constant.LogConstant;
 
-public class ValidatorException extends JUtilException {
+public class ValidatorException extends RuntimeException {
     public ValidatorException() {
+        super(LogConstant.VALIDATOR_ERROR);
     }
 
     public ValidatorException(String message) {
