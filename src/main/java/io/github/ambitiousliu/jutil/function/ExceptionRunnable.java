@@ -7,5 +7,5 @@ package io.github.ambitiousliu.jutil.function;
 @FunctionalInterface
 public interface ExceptionRunnable {
 
-    public abstract void run() throws Exception;
+    void run() throws Exception;
 }
