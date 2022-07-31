@@ -32,7 +32,7 @@ public class BeanUtil {
      * @param <T> 目标对象类型
      * @return 目标对象列表
      */
-    public static <T> List<T> copyObjectList(List<Object> sourceList, Supplier<T> supplier) {
+    public static <T> List<T> copyObjectList(List<?> sourceList, Supplier<T> supplier) {
         return sourceList.stream().map(source -> copyObject(source, supplier)).collect(Collectors.toList());
     }
 }
